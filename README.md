@@ -66,11 +66,12 @@
 
 ---
 
-### 💰 Expense Tracker – Personal Finance Manager
+### 💊 Pharmacy Management System – Desktop Application
 
-* Built a desktop application using Python and Tkinter
-* Integrated SQLite database for persistent data storage
-* Visualized expense insights using Matplotlib
+* Developed a desktop application using Java Swing to manage pharmacy operations  
+* Integrated MySQL database for storing and retrieving medicine and sales data  
+* Implemented features such as medicine management, billing system, and inventory tracking  
+* Focused on creating a user-friendly interface and efficient data handling  
 
 ---
 
